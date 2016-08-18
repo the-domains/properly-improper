@@ -1,0 +1,14 @@
+layout_spectrum: 0.25795877701602876
+typography_spectrum: 0.9721432900987566
+color:
+  brandStrength: 0.7092115033883601
+  lightness: 0.1073602659162134
+  saturation: 0.635955618461594
+  rhythmicContrast: 0.037676370004191995
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: properly improper
